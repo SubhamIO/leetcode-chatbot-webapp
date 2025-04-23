@@ -11,6 +11,6 @@ To build this intelligent assistant, we’ll use the following technologies:
 
 - LangChain: A powerful framework for building AI applications requiring LLMs and tools integration.
 - FAISS: A high-performance vector store for efficient similarity search.
-HuggingFace: A open source LLM model for natural language understanding.
-Streamlit: A Python library for building interactive web applications.
-SentenceTransformer: For generating embeddings from text documents.
+- HuggingFace: A open source LLM model for natural language understanding.
+- Streamlit: A Python library for building interactive web applications.
+- SentenceTransformer: For generating embeddings from text documents.
